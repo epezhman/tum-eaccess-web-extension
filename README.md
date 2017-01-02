@@ -1,5 +1,5 @@
 
-#TUM eAccess Extension for chrome
+#TUM eAccess Add-on for FireFox and Microsoft Edge
 
-[Chrome extension](https://chrome.google.com/webstore/detail/tum-eaccess/ppadkakjmpgeflpdlcibeogpiankacmi?hl=en) helping to access scientific papers more easily 
+[FireFox Add-on](https://www.google.de/) and [Microsoft Edge Add-on](https://www.google.de/), helping to access scientific papers more easily 
 
