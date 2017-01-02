@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "TUM eAccess",
   "description": "TUM eAccess: Access to Electronic Media",
-  "version": "1.4",
+  "version": "1.5",
   "author": "Pezhman Nasirifard",
   "homepage_url": "https://github.com/epezhman/tum-eaccess-web-extension",
   "icons": {
